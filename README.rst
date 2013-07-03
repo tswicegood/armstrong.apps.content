@@ -64,7 +64,7 @@ State of Project
 ----------------
 Armstrong is an open-source news platform that is freely available to any
 organization.  It is the result of a collaboration between the `Texas Tribune`_
-and `Bay Citizen`_, and a grant from the `John S. and James L. Knight
+and `Center for Investigative Reporting`_, and a grant from the `John S. and James L. Knight
 Foundation`_.
 
 To follow development, be sure to join the `Google Group`_.
@@ -73,7 +73,7 @@ To follow development, be sure to join the `Google Group`_.
 probably looking for that.
 
 .. _Texas Tribune: http://www.texastribune.org/
-.. _Bay Citizen: http://www.baycitizen.org/
+.. _Center for Investigative Reporting: http://cironline.org/
 .. _John S. and James L. Knight Foundation: http://www.knightfoundation.org/
 .. _Google Group: http://groups.google.com/group/armstrongcms
 .. _Armstrong: http://www.armstrongcms.org/
@@ -81,7 +81,7 @@ probably looking for that.
 
 License
 -------
-Copyright 2011-2012 Bay Citizen and Texas Tribune
+Copyright 2011-2013 Texas Tribune and Center for Investigative Reporting
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
